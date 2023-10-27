@@ -5,5 +5,5 @@ Velocity Child Theme Paket F Pulsa 1
 Child Theme for the Velocity System WordPress theme.
 
 ### Required
-Theme Velocity versi 2.4.0 keatas , [Download](https://github.com/VelocityDeveloper/velocity/releases/download/v2.4.0/velocity.zip)
+Theme Velocity versi 2.4.0 keatas , [Download](https://github.com/VelocityDeveloper/velocity-pulsa1/releases)
 
